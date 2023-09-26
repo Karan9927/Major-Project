@@ -16,4 +16,86 @@
 ![image](https://github.com/Karan9927/Major-Project/assets/115612744/a9717c91-1d1f-4401-aa55-ecbb92fded06)
 
 ## Tags Used
-`<div>`,`<img>`,`<h1>`,`<h2>`,`<h3>`,`<h4>`,`<navbar>`,`<header>`,`<ul>`,`<li>`,`<a>`,`<button>`,`<p>`,`<em>`,`<form>`,`<input>`,`<select>`,`<option>`
+# HTML Tags Used in Code
+
+- `<body>`: The `<body>` tag defines the main content of the HTML document, which is visible to users in the web browser.
+
+- `<nav>`: The `<nav>` tag is used to define a navigation bar or menu section.
+
+- `<a>`: The `<a>` tag is used to create hyperlinks. It is used both within the navigation bar and for linking to various sections of the webpage.
+
+- `<img>`: The `<img>` tag is used to display images on the webpage.
+
+- `<div>`: The `<div>` tag is a generic container used to group and style content within the webpage.
+
+- `<ul>`: The `<ul>` tag is used to create an unordered list.
+
+- `<li>`: The `<li>` tag is used to define list items within an unordered list.
+
+- `<em>`: The `<em>` tag is used to emphasize text and typically renders as italicized.
+
+- `<h1>`, `<h2>`, `<h3>`, `<h4>`: These heading tags are used to define different levels of headings on the webpage, with `<h1>` being the highest level and `<h4>` being the lowest.
+
+- `<p>`: The `<p>` tag is used to define paragraphs of text.
+
+- `<button>`: The `<button>` tag is used to create clickable buttons.
+
+- `<svg>`: The `<svg>` tag is used to embed Scalable Vector Graphics (SVG) within the HTML code.
+
+- `<path>`: The `<path>` tag is used within an SVG to define the outline or shape of a vector graphic.
+
+- `<i>`: The `<i>` tag is used to define text that is in italics, often used for icons or decorative elements.
+
+- `<span>`: The `<span>` tag is a generic inline container used for styling and scripting.
+
+- `<em>`: The `<em>` tag is used to emphasize text and typically renders as italicized.
+
+- `<strong>`: The `<strong>` tag is used to highlight or emphasize text and typically renders as bold.
+
+- `<ul>`, `<li>`: These tags are used to create lists and list items.
+
+- `<button>`: The `<button>` tag is used to create clickable buttons.
+
+- `<h2>`: The `<h2>` tag is used to define a level 2 heading.
+
+- `<a>`: The `<a>` tag is used for hyperlinks.
+
+- `<div>`: The `<div>` tag is used for grouping and styling content.
+
+- `<img>`: The `<img>` tag is used to display images.
+
+- `<button>`: The `<button>` tag is used to create clickable buttons.
+
+- `<h2>`: The `<h2>` tag is used to define a level 2 heading.
+
+- `<p>`: The `<p>` tag is used to define paragraphs of text.
+
+- `<em>`: The `<em>` tag is used to emphasize text and typically renders as italicized.
+
+- `<h3>`: The `<h3>` tag is used to define a level 3 heading.
+
+- `<ul>`, `<li>`: These tags are used to create lists and list items.
+
+- `<div>`: The `<div>` tag is used for grouping and styling content.
+
+- `<img>`: The `<img>` tag is used to display images.
+
+- `<h3>`: The `<h3>` tag is used to define a level 3 heading.
+
+- `<p>`: The `<p>` tag is used to define paragraphs of text.
+
+- `<em>`: The `<em>` tag is used to emphasize text and typically renders as italicized.
+
+- `<h3>`: The `<h3>` tag is used to define a level 3 heading.
+
+- `<p>`: The `<p>` tag is used to define paragraphs of text.
+
+- `<em>`: The `<em>` tag is used to emphasize text and typically renders as italicized.
+
+
+35. `<h3>`: The `<h3>` tag is used to define a level 3 heading.
+
+36. `<p>`: The `<p>` tag is used to define paragraphs of text.
+
+37. `<em>`: The `<em>` tag is used to emphasize text and typically renders as italicized.
+
